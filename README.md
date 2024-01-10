@@ -19,8 +19,8 @@ Please carefully read and understand about the Infant incubator and answer the f
 6. Open a new terminal window
 7. Type the following commands in succession:
 - Ensure you are in the root directory
-`export FLASK_APP=app.py`
-`flask run`
+- `export FLASK_APP=app.py`
+- `flask run`
 - If you run into any errors you update your python
 
 8. The application will start running on the localhost and you will be able to open the same in the browser using the link mentioned in the console
