@@ -19,18 +19,18 @@ Please carefully read and understand about the Infant incubator and answer the f
 6. Open a new terminal window
 7. Type the following commands in succession:
 - Ensure you are in the root directory
-- export FLASK_APP="main.app"
+- export FLASK_APP=app.py
 - flask run
 - If you run into any errors you update your python
 
-8. The application will start running on the localhost and you will be able to open the same in browser using the link mentioned in the console
-9. Run that link in the browser where you will see the flask application running.
+8. The application will start running on the localhost and you will be able to open the same in the browser using the link mentioned in the console
+9. Run that link in the browser where you will see the Flask application running.
 
-Incase the above steps are not working you can communicate with the TA's to help you out.
+In case the above steps are not working you can communicate with the TAs to help you out.
 
 ## Submission
 
-This is a group submission. Please write your responses in a word file and convert it to the pdf. Submit only one pdf file per group. Title of the file should be lab4*group*<group_number>.pdf. Good luck!
+This is a group submission. Please write your responses in a Word file and convert it to the PDF. Submit only one pdf file per group. The title of the file should be lab4*group*<group_number>.pdf. Good luck!
 
 ## Infant Incubator Model Explained
 
